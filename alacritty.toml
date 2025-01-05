@@ -18,3 +18,7 @@ y = 15
 
 [selection]
 save_to_clipboard = true
+
+[cursor]
+unfocused_hollow = false 
+
